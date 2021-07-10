@@ -2,6 +2,7 @@
 
 Offsets::Offsets() {};
 
+
 int Offsets::GameTime = 0x2FB3F24;
 
 int Offsets::ObjIndex = 0x20;
